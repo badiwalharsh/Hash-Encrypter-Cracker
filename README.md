@@ -49,8 +49,7 @@ A powerful Python GUI application built using **Tkinter** that allows you to:
 - Internet (only for online wordlist cracking)
 
 ## 🧑‍💻 Author 
-Harsh Badiwal 
-Security Engineer
-
-LinkedIn: https://www.linkedin.com/in/harsh-badiwal
-Portfolio: https://harsh-badiwal-portfolio.netlify.app
+ Harsh Badiwal 
+ Security Engineer
+ LinkedIn: https://www.linkedin.com/in/harsh-badiwal
+ Portfolio: https://harsh-badiwal-portfolio.netlify.app
