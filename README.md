@@ -14,7 +14,11 @@ A powerful Python GUI application built using **Tkinter** that allows you to:
 
 ## 🖼️ Screenshot
 
+![Demo Screenshot](hash_tool_gui/screenshots/hash_encryption.png)
+
 ![Demo Screenshot](hash_tool_gui/screenshots/hash_crack_local_wordlist.png)
+
+![Demo Screenshot](hash_tool_gui/screenshots/hash_crack_online_wordlist.png)
 
 ---
 
