@@ -52,6 +52,6 @@ A powerful Python GUI application built using **Tkinter** that allows you to:
  
  Harsh Badiwal || Security Engineer
  
- LinkedIn: (https://www.linkedin.com/in/harsh-badiwal-290211290)
+ ![LinkedIn](https://www.linkedin.com/in/harsh-badiwal-290211290)
  
- Portfolio: https://harsh-badiwal-portfolio.netlify.app
+ ![Portfolio](https://harsh-badiwal-portfolio.netlify.app)
