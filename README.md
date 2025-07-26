@@ -50,7 +50,8 @@ A powerful Python GUI application built using **Tkinter** that allows you to:
 
 ## 🧑‍💻 Author 
  
- Harsh Badiwal 
- Security Engineer
+ Harsh Badiwal || Security Engineer
+ 
  LinkedIn: https://www.linkedin.com/in/harsh-badiwal
+ 
  Portfolio: https://harsh-badiwal-portfolio.netlify.app
