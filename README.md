@@ -14,7 +14,7 @@ A powerful Python GUI application built using **Tkinter** that allows you to:
 
 ## 🖼️ Screenshot
 
-![Demo Screenshot](hash_tool_gui/screenshots/hash encryption.png)
+![Demo Screenshot](hash_tool_gui/screenshots/hash_encryption.png)
 
 ---
 
