@@ -1,0 +1,8 @@
+Cracked [SHA256]: 8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918 = 'admin'
+Cracked [SHA256]: 686f746a95b6f836d7d70567c302c3f9ebb5ee0def3d1220ee9d4e9f34f5e131 = 'love' (in 0.02 sec)
+Cracked [MD5]: d8578edf8458ce06fbc5bb76a58c5ca4 = 'qwerty' (in 0.01 sec)
+Cracked [SHA1]: b1b3773a05c0ed0176787a4f1574ff0075f7521e = 'qwerty' (in 0.00 sec)
+Cracked [SHA512]: 0dd3e512642c97ca3f747f9a76e374fbda73f9292823c0313be9d78add7cdd8f72235af0c553dd26797e78e1854edee0ae002f8aba074b066dfce1af114e32f8 = 'qwerty' (in 0.01 sec)
+Cracked [SHA512]: dbe40abda343f8309e3112bd7b5f927b2d966c9dccdf158e22574a0024d46c4b89332903f2c04c30dc2f0757defd7f03ffb5adedf33083d2c7c056e74a814cf9 = 'michelle' (in 0.02 sec)
+Cracked [SHA256]: 8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918 = 'admin' (in 0.00 sec)
+Cracked [SHA256]: 8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918 = 'admin' (in 0.13 sec)
